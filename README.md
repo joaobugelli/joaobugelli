@@ -4,7 +4,7 @@
 
 📖 I’m currently learning Data Science (python, pandas, data visualization and machine learning)
 
-🌟 I’m looking to collaborate on data science knowlodge difusion (see @importsci)
+🌟 I’m looking to collaborate on data science knowlodge difusion (see [Import Sci](https://github.com/importsci))
 
 📫 How to reach me joaoalexsb@gmail.com
 
