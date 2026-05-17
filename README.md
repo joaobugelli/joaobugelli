@@ -1,7 +1,5 @@
-👋 Hi, I’m João Bugelli, a Brazilian data product manager and data science enthusiast.
+Hi, I’m João Bugelli, a Brazilian Data Product Manager focused on AI and data systems.
 
-🚀 Creator of [Import Sci](https://github.com/importsci), an open knowledge platform for data science.
+I share what I learn and build at [joaobugelli.com](https://joaobugelli.com).
 
-📫 Feel free to reach out: joaoalexsb@gmail.com
-
-
+Feel free to reach out: joaoalexsb@gmail.com
